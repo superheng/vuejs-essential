@@ -1,2 +1,2 @@
-# -vuejs-essential
+# vue
 Description
